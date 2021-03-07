@@ -25,6 +25,22 @@ class Solution {
 
 
 
+//         int n= prices.length;
+//         int max=0;
+//         int minval=prices[0];
+//         for(int i=0;i<n;i++){
+//             if(minval>prices[i]){
+//                 minval=prices[i];
+//             }
+//             int diff = prices[i] - minval;
+//             if(diff>max){
+//                 max=diff;
+//             }
+//         }
+//         return max;
+
+
+
         // EXCEDED TIME LIMIT
 
         // int n= prices.length;
